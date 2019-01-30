@@ -1,2 +1,12 @@
 # Telemarketing-Data-Science-Project
-This project relates to the marketing campaign of Banco de Portugal, a renowned Portuguese banking institution. It provides a solution in terms of YES/NO prediction to the bank’s marketing division, to sell long-term (fixed) deposits to clients based on various parameters such as their socio-economic indicators, their marital status, type of job, age, etc. The aim of the project is to make use of machine learning techniques to build an effective predictive-analytical model which can forecast, whether a client is likely to subscribe to a long-term (fixed) deposit account with the bank or not. Since the resulting variable (outcome) is either a Yes or No and more than two variables are used as input to make the prediction, the problem attains the shape of a multivariate binary classification problem.
+This project relates to the marketing campaign of Banco de Portugal, a renowned Portuguese banking institution. It provides a solution in terms of a YES/NO prediction to the bank’s telemarketing division, to sell long-term (fixed) deposits to clients. Based on various parameters such as their socio-economic indicators, their marital status, type of job, age, etc these predictions are made. The final aim of the project to make use of machine learning techniques to build an effective predictive-analytical model is aided by a detailed dataset exploration and analysis which is performed at the initial stages to derive insights and better understanding of the problem / dataset.
+
+
+
+
+
+
+
+
+
+
